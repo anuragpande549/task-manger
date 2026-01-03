@@ -1,7 +1,6 @@
-# CRM Management System (MVP)
 
-A full-stack **CRM Management System** built with modern web technologies.  
-The project focuses on clean architecture, authentication, and real-world CRM workflows.
+
+
 
 ---
 
@@ -40,11 +39,4 @@ The project focuses on clean architecture, authentication, and real-world CRM wo
 - Leads list page (Table + actions UI)
 - Backend APIs fully integrated
 
-> Note: Frontend UI is under active development and functionality is being added screen by screen.
-
----
-
-## 🔐 Login Credentials (Admin)
-
-Use the following credentials to log in:
 
